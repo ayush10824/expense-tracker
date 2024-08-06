@@ -4,9 +4,7 @@ Application for tracking income and expenses. It uses Next.js with [Neon](https:
 
 
 
-<div style="text-align:center;margin:30px auto;">
-  <img src="public/screenshot.png" alt="" width="500" style="margin: 0 auto;" />
-</div>
+
 
 ## Usage
 
